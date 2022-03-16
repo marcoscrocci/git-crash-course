@@ -4,9 +4,11 @@
 
 1. Headers
 
-2. It·licos, Negritos e Negritos It·licos
+2. It√°licos, Negritos e Negritos It√°licos
 
-3. Par·grafos com destaque
+3. Par√°grafos com destaque
+
+4. Cria√ß√£o de hyperlinks
 
 ## Headers
 
@@ -32,29 +34,41 @@
 
 ###### h6
 
-## It·licos, Negritos e Negritos It·licos
-Os negritos e it·licos s„o representados pelo sÌmbolo * ou _.
+## It√°licos, Negritos e Negritos It√°licos
+Os negritos e it√°licos s√£o representados pelo s√≠mbolo * ou _.
 
-Uma palavra cercada por 1 asterisco em cada lado ter· seu formato modificado para *it·lico*.
+Uma palavra cercada por 1 asterisco em cada lado ter√° seu formato modificado para *it√°lico*.
 
-Uma palavra cercada por 2 asteriscos em cada lado ter· seu formato modificado para **negrito**.
+Uma palavra cercada por 2 asteriscos em cada lado ter√° seu formato modificado para **negrito**.
 
-Uma palavra cercada por 3 asteriscos em cada lado ter· seu formato modificado para ***negrito/it·lico***.
+Uma palavra cercada por 3 asteriscos em cada lado ter√° seu formato modificado para ***negrito/it√°lico***.
 
-
-## Par·grafo com destaque
-
-
-
-Para escrever um par·grafo com destaque, utilizamos o sÌmbolo >.
+## Cria√ß√£o de hyperlinks
 
 
 
-> Esse È um par·grafo destacado do resto do texto.
-> Esse aqui tambÈm.
+A cria√ß√£o de hyperlinks √© feita atrav√©s dos s√≠mbolos [](). Onde o conte√∫do dos colchetes √© o texto que ser√° exibido e o conte√∫do do par√™nteses √© o link a ser redirecionado.
+Ex: [Google](www.google.com)
+
+
+
+[Voltar ao √≠ndice](#√≠ndice)
+
+
+
+## Par√°grafo com destaque
+
+
+
+Para escrever um par√°grafo com destaque, utilizamos o s√≠mbolo >.
+
+
+
+> Esse √© um par√°grafo destacado do resto do texto.
+> Esse aqui tamb√©m.
 > e assim por diante.
 
 
 
-Os paragr·fos acima est„o destacados do restante do texto escrito.
+Os paragr√°fos acima est√£o destacados do restante do texto escrito.
 
