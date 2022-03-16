@@ -6,6 +6,8 @@
 
 2. Itálicos, Negritos e Negritos Itálicos
 
+3. Parágrafos com destaque
+
 ## Headers
 
 # h1
@@ -38,4 +40,21 @@ Uma palavra cercada por 1 asterisco em cada lado terá seu formato modificado par
 Uma palavra cercada por 2 asteriscos em cada lado terá seu formato modificado para **negrito**.
 
 Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado para ***negrito/itálico***.
+
+
+## Parágrafo com destaque
+
+
+
+Para escrever um parágrafo com destaque, utilizamos o símbolo >.
+
+
+
+> Esse é um parágrafo destacado do resto do texto.
+> Esse aqui também.
+> e assim por diante.
+
+
+
+Os paragráfos acima estão destacados do restante do texto escrito.
 
