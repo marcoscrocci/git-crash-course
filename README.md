@@ -12,6 +12,9 @@
 
 [5. Criando snippets de código](#criando-snippets-de-código)
 
+[6. Listas não-ordenadas](#listas-não-ordenadas)
+
+
 ## Headers
 
 # h1
@@ -102,3 +105,14 @@ document.getElementById("teste");
 ```
 
 [Voltar ao índice](#indice)
+
+
+## Listas não-ordenadas
+Para criar listas não-ordenadas, utiliza-se o símbolo - no começo da linha.
+- linha 1
+- linha 2
+- linha 3
+
+
+
+[Voltar ao índice](#índice)
