@@ -2,15 +2,15 @@
 
 ## Indice
 
-1. Headers
+[1. Headers](#headers)
 
-2. Itálicos, Negritos e Negritos Itálicos
+[2. Itálicos, Negritos e Negritos Itálicos](#itálicos-negritos-e-negritos-itálicos)
 
-3. Parágrafos com destaque
+[3. Parágrafos com destaque](#parágrafo-com-destaque)
 
-4. Criação de hyperlinks
+[4. Criação de hyperlinks](#criação-de-hyperlinks)
 
-5. Criando snippets de código
+[5. Criando snippets de código](#criando-snippets-de-código)
 
 ## Headers
 
@@ -36,6 +36,8 @@
 
 ###### h6
 
+[Voltar ao índice](#indice)
+
 ## Itálicos, Negritos e Negritos Itálicos
 Os negritos e itálicos são representados pelo símbolo * ou _.
 
@@ -45,16 +47,18 @@ Uma palavra cercada por 2 asteriscos em cada lado terá seu formato modificado p
 
 Uma palavra cercada por 3 asteriscos em cada lado terá seu formato modificado para ***negrito/itálico***.
 
+[Voltar ao índice](#indice)
+
 ## Criação de hyperlinks
 
 
 
 A criação de hyperlinks é feita através dos símbolos [](). Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado.
-Ex: [Google](www.google.com)
+Ex: [Google](https://www.google.com)
 
 
 
-[Voltar ao índice](#índice)
+[Voltar ao índice](#indice)
 
 
 
@@ -74,8 +78,8 @@ Para escrever um parágrafo com destaque, utilizamos o símbolo >.
 
 Os paragráfos acima estão destacados do restante do texto escrito.
 
+[Voltar ao índice](#indice)
 
-[08:53] Claudio Boldorini Júnior
 ## Criando snippets de código
 Para criar snippets de código (partes de código) basta utilizar o símbolo de crase 3 vezes junto com a linguagem do snippet.```java
 public static void main(String[] args){
@@ -94,5 +98,3 @@ document.getElementById("teste");
 "age": 25
 }
 ```
-
-
