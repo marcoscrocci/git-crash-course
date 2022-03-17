@@ -81,7 +81,9 @@ Os paragráfos acima estão destacados do restante do texto escrito.
 [Voltar ao índice](#indice)
 
 ## Criando snippets de código
-Para criar snippets de código (partes de código) basta utilizar o símbolo de crase 3 vezes junto com a linguagem do snippet.```java
+Para criar snippets de código (partes de código) basta utilizar o símbolo de crase 3 vezes junto com a linguagem do snippet.
+
+```java
 public static void main(String[] args){
 System.out.println("Teste de snippet");
 }
@@ -98,3 +100,5 @@ document.getElementById("teste");
 "age": 25
 }
 ```
+
+[Voltar ao índice](#indice)
